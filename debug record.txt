@@ -2,3 +2,8 @@
 
 https://3dwork.io/en/mks-gen-l-v1-0-no-originales-solucionando-problemas-de-inestabilidad-en-el-hotend/
 
+[PL-08N wire connection method]
+
+https://docs.vorondesign.com/build/electrical/
+
+
