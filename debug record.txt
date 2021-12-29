@@ -6,4 +6,10 @@ https://3dwork.io/en/mks-gen-l-v1-0-no-originales-solucionando-problemas-de-ines
 
 https://docs.vorondesign.com/build/electrical/
 
+[List serial port]
+
+in cmd line: 
+original cmd: ls -l /dev/serial/by-id/
+change it to: ls -l /dev/serial/by-path/
+
 
